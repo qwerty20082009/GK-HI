@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "gk_hi"
 version = "1.0.0"
 authors = [
-  { name="Lakshy Chaurasia", email="lpg.m190120089.com" },
+  { name="Lakshy Chaurasia", email="lpg.m19012008@gmail.com" },
 ]
 description = "A collection of 200+ General Knowledge questions in Hindi"
 readme = "README.md"
@@ -19,4 +19,4 @@ classifiers = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["GK_HI/src"]
+where = ["src"]
