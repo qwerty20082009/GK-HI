@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "gkhindi"
+name = "gk_hi"
 version = "1.0.0"
 authors = [
-  { name="qwerty20082009", email="your@email.com" },
+  { name="Lakshy Chaurasia", email="lpg.m190120089.com" },
 ]
 description = "A collection of 200+ General Knowledge questions in Hindi"
 readme = "README.md"
