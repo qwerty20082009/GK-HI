@@ -2,12 +2,12 @@
 
 A Python library containing 200+ General Knowledge questions in Hindi.
 
-## Installation
+# Installation
 ```bash
 pip install GK-HI
 ```
 
-##How to Use
+#How to Use
 
 ```python
 import GK_HI
@@ -26,7 +26,7 @@ search_results = gkhindi.search("भारत")
 print(f"Found {len(search_results)} questions with 'भारत'")
 ```
 
-##Structure
+#Structure
 The library has the following structure:
 ```
 gkhindi/
